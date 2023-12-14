@@ -1,0 +1,14 @@
+
+b	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(¾­ï¥8ç˜ÝÔÃ1
+g	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(… ‚›üÿÿÿÿ8é˜ÝÔÃ1
+g	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(«ú¨Åþÿÿÿÿ8»–áÔÃ1
+F	java:S106,"+Replace this use of System.out by a logger.(Ë¿™Y8Š™ÝÔÃ1
+G	java:S106-"+Replace this use of System.out by a logger.(ç‡¯³8Œ™ÝÔÃ1
+>
+java:S55428"Use a secure padding scheme.(ÎµÓ¨ùÿÿÿÿ8’™ÝÔÃ1
+>
+java:S5542E"Use a secure padding scheme.(äõìûÿÿÿÿ8–™ÝÔÃ1
+>
+java:S5542K"Use a secure padding scheme.(äõìûÿÿÿÿ8˜™ÝÔÃ1
+>
+java:S5542R"Use a secure padding scheme.(ÎµÓ¨ùÿÿÿÿ8¢™ÝÔÃ1

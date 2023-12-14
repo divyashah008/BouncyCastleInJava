@@ -1,0 +1,15 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯Ÿ–8‘¯ìÃ1
+9
+java:S1643"Use a StringBuilder instead.(ÚîÍ”8’‘¯ìÃ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¯Ÿ–8Ê‘¯ìÃ1
+j	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÆ¨Î8Ú‘¯ìÃ1
+G	java:S106'"+Replace this use of System.out by a logger.(§àèÔ8Ü‘¯ìÃ1
+j	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óöå8ß‘¯ìÃ1
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ßÈ­ÿÿÿÿÿ8ã‘¯ìÃ1
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÃ¥†ÿÿÿÿÿ8è‘¯ìÃ1
+[
+java:S4719^"9Replace charset name argument with StandardCharsets.UTF_8(±…÷ıÿÿÿÿ8†’¯ìÃ1
+F	java:S106`"+Replace this use of System.out by a logger.(Û’ù8‡’¯ìÃ1
+L	java:S106f"+Replace this use of System.out by a logger.(òæÄ÷úÿÿÿÿ8‰’¯ìÃ1

@@ -1,0 +1,25 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Ùü§¬ıÿÿÿÿ8¹Ú¸ìÃ1
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8¼Ú¸ìÃ1
+n
+java:S1128"LRemove this unused import 'org.bouncycastle.crypto.AsymmetricCipherKeyPair'.(Ôöšÿÿÿÿÿ8½Ú¸ìÃ1
+h
+java:S1128"FRemove this unused import 'org.bouncycastle.crypto.engines.RSAEngine'.(ÔÒ„‰ûÿÿÿÿ8½Ú¸ìÃ1
+p
+java:S1128"SRemove this unused import 'org.bouncycastle.crypto.generators.RSAKeyPairGenerator'.(‘úş8¾Ú¸ìÃ1
+s
+java:S1128"VRemove this unused import 'org.bouncycastle.crypto.params.RSAKeyGenerationParameters'.(¨Ã·8¾Ú¸ìÃ1
+n
+java:S1128"LRemove this unused import 'org.bouncycastle.crypto.params.RSAKeyParameters'.(Ù›íâıÿÿÿÿ8¾Ú¸ìÃ1
+l
+java:S1128"ORemove this unused import 'org.bouncycastle.jce.provider.BouncyCastleProvider'.(ŠÎ„¾8¾Ú¸ìÃ1
+b
+java:S1128	"ERemove this unused import 'org.bouncycastle.crypto.CipherParameters'.(æ§íÈ8ÀÚ¸ìÃ1
+K
+java:S1128
+")Remove this unused import 'javax.crypto'.(×ßº–ûÿÿÿÿ8ÀÚ¸ìÃ1
+^
+java:S1128"<Remove this unused import 'javax.crypto.spec.SecretKeySpec'.(¹«è•üÿÿÿÿ8ÁÚ¸ìÃ1
+G
+java:S1128"*Remove this unused import 'java.security'.(èÛò§8ÁÚ¸ìÃ1
